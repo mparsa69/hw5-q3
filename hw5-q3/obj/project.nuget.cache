@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "W+6yvMAkP7xbXXbvGkrFrsxassWtpS4vT+gW4yILG9dx+3L1Jp9I6dqTQsaY8KC1qg7Rozy8sgdDNfBDyRKBVQ==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Maktab Sharif Class\\تمرین ها\\05\\hw5-q3\\hw5-q3\\hw5-q3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\m.parsa\\.nuget\\packages\\bogus\\34.0.1\\bogus.34.0.1.nupkg.sha512",
+    "C:\\Users\\m.parsa\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
